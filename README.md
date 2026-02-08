@@ -16,10 +16,11 @@ I enjoy building end‑to‑end projects that combine solid data pipelines, ML m
 - [RAG Document QA](https://github.com/Saisunku1627/rag-document-qa)  
   End‑to‑end Retrieval‑Augmented Generation system over local `.txt` documents using SentenceTransformers embeddings, FAISS vector search, and an LLM backend.
 
-- *(To be added as they’re completed)*  
-  - Tabular ML project (e.g., AWS cost or churn prediction with deployment).  
-  - Data engineering / analytics project (SQL + dashboards).  
-  - RAG Web App (Streamlit/FastAPI UI on top of the RAG backend).
+- [GAN Image Generation](https://github.com/Saisunku1627/gan-image-generation)  
+  Trained a Generative Adversarial Network to generate synthetic images, experimenting with generator/discriminator architectures and training dynamics.
+
+- [AWS Cost Optimization](https://github.com/Saisunku1627/AWS-cost-optimization)  
+  Analyzed AWS cost and usage data, identified cost drivers, and applied optimization strategies (rightsizing, scheduling, and usage patterns) to reduce cloud spend.
 
 ## What I'm looking for
 
