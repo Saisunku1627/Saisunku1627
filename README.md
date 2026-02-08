@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sai Teja 👋
 
-<!--
-**Saisunku1627/Saisunku1627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science graduate student in Denver focused on **ML, LLMs, and data analytics**.  
+I enjoy building end‑to‑end projects that combine solid data pipelines with practical AI applications.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (pandas, scikit‑learn, PyTorch), SQL
+- Cloud: AWS (S3, Lambda, SageMaker basics)
+- Data: ETL pipelines, dashboards (Tableau/Power BI)
+- AI/ML: classic ML, RAG, LLM apps
+
+## Featured projects
+
+- [RAG Document QA](https://github.com/Saisunku1627/rag-document-qa) – RAG system over local documents using SentenceTransformers + FAISS + LLM backend.
+- (Add next project here once it's ready.)
+
+## Contact
+
+- LinkedIn: <your LinkedIn link>
+- Email: <your email>
